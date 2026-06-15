@@ -1,5 +1,3 @@
-# HR-Attendance-Analysis
-Power BI dashboard for analyzing employee attendance, work-from-home usage, and sick leave trends.
 # HR Attendance Analysis Dashboard
 
 ## Project Overview
@@ -97,6 +95,20 @@ The dashboard provides:
 
 ---
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Calculations
+- KPI Development
+- Data Visualization
+- Dashboard Design
+- Business Insight Generation
+- HR Data Analysis
+
+---
+
 ## Future Improvements
 
 Potential future enhancements include:
@@ -119,4 +131,6 @@ Potential future enhancements include:
 
 ## Author
 
-Developed as part of a Power BI Data Analysis project to practice data cleaning, data modeling, DAX calculations, dashboard design, and business insight generation.
+Esraa Bahaa
+
+This project was developed to demonstrate practical skills in Power BI, data transformation, KPI development, dashboard design, and business insight generation.
